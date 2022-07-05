@@ -13,5 +13,4 @@ const fac = (i) => {
 };
 
 const nCr = fac(n)/(fac(n-r)*fac(r));
-
 console.log(nCr);
